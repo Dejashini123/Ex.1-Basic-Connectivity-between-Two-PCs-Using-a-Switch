@@ -1,5 +1,7 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+# Date : 
+# Name :Dejashini T P
+# Reg num: 212224060055
 
 # Objective
 
