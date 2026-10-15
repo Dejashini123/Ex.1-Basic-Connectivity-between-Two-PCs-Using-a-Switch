@@ -13,6 +13,7 @@ ________________________________________
 # Network Topology Diagram
 
 Insert the network topology from Packet Tracer (Screenshot or drawing)
+<img width="1918" height="1142" alt="Screenshot 2026-10-15 160655" src="https://github.com/user-attachments/assets/69cb3a61-f4f6-4f3d-9ec8-e3dedb95623d" />
 
 ________________________________________
 # IP Addressing Table (if applicable)
@@ -39,6 +40,14 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="1918" height="1163" alt="Screenshot 2026-10-15 160728" src="https://github.com/user-attachments/assets/8a60e3df-f95f-4898-aea0-fccd241deb1f" />
+<img width="1918" height="1138" alt="Screenshot 2026-10-15 160741" src="https://github.com/user-attachments/assets/84b48230-34b4-429b-8c69-6d49a4b324e4" />
+<img width="1918" height="1137" alt="Screenshot 2026-10-15 160756" src="https://github.com/user-attachments/assets/4553a15f-3cfb-459f-add9-70c937cadede" />
+<img width="1918" height="1140" alt="Screenshot 2026-10-15 161159" src="https://github.com/user-attachments/assets/604fe0dc-3eb6-4e0c-bfdf-f1626f792907" />
+
+
+
+
 
 Insert screenshots showing ping success, configuration, or simulation results.
 ________________________________________
